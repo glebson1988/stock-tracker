@@ -16,5 +16,3 @@
 - 'Devise' for authentication
 - 'Devise-bootstrap-views' for pretty forms
 - 'Iex-ruby-client' - for receiving data of stocks from API
-
-https://glebson-stocktracker.herokuapp.com/ - try on Heroku...
